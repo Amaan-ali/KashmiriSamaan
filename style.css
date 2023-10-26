@@ -64,7 +64,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height:500px;
+    height:459px;
 }
 #home::before{
     content: "";
